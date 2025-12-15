@@ -1,15 +1,15 @@
 # kusumchawla22.github.io
 AI in Life Sciences: A one‑stop hub for the modern scientist.
-For most of human history, intelligence was a uniquely human trait. Then came a turning point: the rise of artificial intelligence—born from human ingenuity and powered by high‑performance computing. Today, AI is no longer a distant concept or a futuristic dream. It has become indispensable, shaping our world as both a protagonist and, at times, an antagonist.
-In the life sciences, this shift is especially profound. The volume of AI‑related content—webinars, research papers, industry analyses, podcasts, and expert opinions—has exploded. Yet it remains scattered across the digital landscape, making it difficult for busy scientists and professionals to keep pace with the rapid transformation.
+For most of human history, intelligence was a uniquely human trait. Then came a turning point: the rise of artificial intelligence—born from human ingenuity and powered by high‑performance computing. Today AI is no longer a distant concept or a futuristic dream. It has become indispensable, shaping our world as both a protagonist and at times an antagonist.
+In the life sciences this shift is especially profound. The volume of AI‑related content—webinars, research papers, industry analyses, podcasts, and expert opinions—has exploded. Yet it remains scattered across the digital landscape making it difficult for busy scientists and professionals to keep pace with the rapid transformation.
 This blog aims to change that.
 
-Intent: Why This Space Exists
+Intent: Why this space exists
 The goal is simple:
-Create a single, curated destination where anyone in the life sciences can self‑educate on the evolving role of AI in pharmaceuticals and biotechnology. Having worked in the life sciences industry for over a decade, I’ve witnessed the vast potential of the promises AI  hold towards pharma. This sparked my search to understand what AI really is, how it might reshape the current life sciences ecosystem, and what it means for me as a bench scientist. My curiosity—mixed with the fear of AI replacing human roles—pushed me to learn more along this path. Through that journey, I realized there’s plenty of conversation happening, but no single place that brings it all together or helps scientists become truly conversant with the changes AI is driving in the pharmaceutical world.
+Create a single, curated destination where anyone in the life sciences can self‑educate on the evolving role of AI in pharmaceuticals and biotechnology. Having worked in the life sciences industry for over a decade, I’ve witnessed the vast potential of the promises AI  hold towards pharma. This sparked my search to understand what AI really is, how it might reshape the current life sciences ecosystem, and what it means for me as a bench scientist. My curiosity—mixed with the fear of AI replacing human roles—pushed me to learn more along this path. Through that journey, I realized there’s plenty of conversation happening, but no single place that brings it all together or helps scientists become truly conversant with the lastest innovations that  AI brings to the pharmaceutical world.
 Instead of spending hours searching across platforms, readers can come here to explore the latest thinking, breakthroughs, and debates shaping the AI‑driven future of our industry.
 
-Who This Is For
+Who this is for
 This hub is designed for anyone navigating the intersection of science and technology:
 • 	Chemical and biological scientists
 • 	Lab associates and research staff
@@ -18,7 +18,7 @@ This hub is designed for anyone navigating the intersection of science and techn
 • 	AI enthusiasts exploring biotech applications
 Whether you're pipetting at the bench, scaling bioprocesses, or studying for your next exam, this space is built to support your curiosity and growth.
 
-What Readers Should Take Away:
+What readers should take away:
 AI in life sciences is far more than using ChatGPT, Gemini, Copilot, or Claude.
 It’s about reimagining how science is done—from molecule to market.
 By the time readers leave this page, they should understand:
@@ -28,7 +28,7 @@ By the time readers leave this page, they should understand:
 • 	How organizations are testing whether AI is hype or hope
 Every company is running proof‑of‑concept experiments. Some will succeed, some will fail, and time will ultimately reveal which innovations endure. But the momentum is undeniable.
 
-Before Diving In: Let’s Align on the Basics
+Before Diving In: Let’s Align on the basics
 What Is AI?
 Artificial Intelligence (AI)—often used interchangeably with Machine Learning (ML)—refers to computational algorithms designed to learn from data. These algorithms can identify patterns, make predictions, and perform tasks that traditionally required human intelligence. In some cases, they can even surpass human capabilities in speed, scale, and precision.
 Why AI in Pharmaceuticals?
