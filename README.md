@@ -1,5 +1,5 @@
 # kusumchawla22.github.io
-AI in Life Sciences: A One‑Stop Hub for the Modern Scientist
+AI in Life Sciences: A one‑stop hub for the modern scientist
 For most of human history, intelligence was a uniquely human trait. Then came a turning point: the rise of artificial intelligence—born from human ingenuity and powered by high‑performance computing. Today, AI is no longer a distant concept or a futuristic dream. It has become indispensable, shaping our world as both a protagonist and, at times, an antagonist.
 In the life sciences, this shift is especially profound. The volume of AI‑related content—webinars, research papers, industry analyses, podcasts, and expert opinions—has exploded. Yet it remains scattered across the digital landscape, making it difficult for busy scientists and professionals to keep pace with the rapid transformation.
 This blog aims to change that.
